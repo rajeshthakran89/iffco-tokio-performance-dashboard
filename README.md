@@ -13,8 +13,6 @@ This Excel dashboard was built using **simulated insurance data** to analyze and
 - Microsoft Excel (Pivot Tables, Pivot Charts, Slicers, KPIs)
 - Simulated dataset (10,000 rows, created using Faker library)
 
-📷 **Dashboard Preview**  
-![Dashboard Screenshot](dashboard_screenshot.png)
 
 🔐 **Disclaimer**  
 This project uses **synthetic data** for demonstration purposes only and is not affiliated with IFFCO Tokio General Insurance.
